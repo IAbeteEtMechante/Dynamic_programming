@@ -56,10 +56,15 @@ The goal of this repo is to solve a list of DP problems from Codeforces with Pyt
 <!-- LIST OF PROBLEMS WITH SOLUTIONS -->
 ## List of problems with solutions
 
+Here is the list of DP problems on Codeforces:
+https://codeforces.com/gym/302977
+
+Solutions to problems are in this repo.
+
 <!-- CONTACT -->
 ## Contact
 
-Feel free to contact us on this repo, we are happy to hear from you.
+Feel free to contact us on this repo, I am happy to hear from you.
 
 Project Link: [https://github.com/IAbeteEtMechante/Dynamic_programming](https://github.com/IAbeteEtMechante/Dynamic_programming)
 
