@@ -65,6 +65,9 @@ To sum up: Bitmask DP can be usefull if we have a bunch of booleans to describe 
 
 Example: see solutions of problem C, with and without bitmask, to see how the bitmask simplifies the code
 
+good video on bitmask DP:
+https://www.youtube.com/watch?v=rlTkd4yOQpE
+
 <!-- WHEN TO USE DP -->
 ## When to use DP?
 
