@@ -59,7 +59,7 @@ The goal of this repo is to solve a list of DP problems from Codeforces with Pyt
 Here is the list of DP problems on Codeforces:
 https://codeforces.com/gym/302977
 
-Solutions to problems are in this repo.
+Solutions to problems are in this repo. All solutions in this repo have been "Approved" on Codeforces.
 
 <!-- CONTACT -->
 ## Contact
