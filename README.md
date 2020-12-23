@@ -72,6 +72,16 @@ Often it is better to start by finding the transitions. Then find the base cases
 
 If you cannot do DP with a simple state, you need to try to "fix" = determinate one variable in the problem.
 
+### Tip 3
+
+Is knapsack DP?
+Yes
+
+### Tip 4
+
+Is greedy DP?
+Sometimes, but generally not
+
 <!-- LIST OF PROBLEMS WITH SOLUTIONS -->
 ## List of problems with solutions
 
