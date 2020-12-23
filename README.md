@@ -63,7 +63,7 @@ When you are trying to solve a problem you just try different directions. With e
 <!-- TIPS -->
 ## Tips
 
-Often it is better to start by finding the transitions. Then find the base cases.
+Often it is better to start by finding the transitions. Then find the base cases. Because it is easy to know how many bases cases you need once you have all the transitions.
 
 <!-- LIST OF PROBLEMS WITH SOLUTIONS -->
 ## List of problems with solutions
