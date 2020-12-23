@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/IAbeteEtMechante/Dynamic_programming">
-    <img src="images/audio_wave_logo.jpg" alt="Logo" width="80" height="80">
+    <img src="Images/fibonacci-naive.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dynamic programming</h3>
@@ -77,5 +77,5 @@ Great video from Galen Colin:
 https://www.youtube.com/watch?v=zDEQaDl3cso
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[audio_wave-logo]: images/audio_wave_logo.jpg
+[fibo-logo]: Images/fibonacci-naive.png
 
