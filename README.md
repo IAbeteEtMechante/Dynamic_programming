@@ -63,7 +63,14 @@ When you are trying to solve a problem you just try different directions. With e
 <!-- TIPS -->
 ## Tips
 
+### Tip 1
+
 Often it is better to start by finding the transitions. Then find the base cases. Because it is easy to know how many bases cases you need once you have all the transitions.
+
+
+### Tip 2
+
+If you cannot do DP with a simple state, you need to try to "fix" = determinate one variable in the problem.
 
 <!-- LIST OF PROBLEMS WITH SOLUTIONS -->
 ## List of problems with solutions
