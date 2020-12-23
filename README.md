@@ -55,9 +55,11 @@ Kind of easier to implement, we just try to see how the current value contribute
 Bitmask DP is a type of dynamic programming that uses bitmasks, in order to keep track of our current state in a problem.
 It is just a fancy way to say that we represent the current state (or part of the current state) as a binary number. 
 
-Imagine we have 3 booleans to describe the current state. We could use that. But we can also say that each of those 3 represent a digit of a binary number between 0 and 7. And the code will be easier and faster to write.
+Imagine we have 3 booleans to describe the current state. We could use those 3 variables. But we can also say that each of those 3 represent a digit of a binary number between 0 and 7. And the code will be easier and faster to write.
 
 To sum up: Bitmask DP can be usefull if we have a bunch of booleans to describe the current state. A binary number can then group them together to make the state and the redaction of the code more manageable.
+
+Example: see solutions of problem C, with and without bitmask, to see how the bitmask simplifies the code
 
 <!-- WHEN TO USE DP -->
 ## When to use DP?
