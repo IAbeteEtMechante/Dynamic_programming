@@ -34,6 +34,7 @@ The goal of this repo is to solve a list of DP problems from Codeforces with Pyt
 
 * [General concepts](#general-concepts)
 * [When to use DP?](#when-to-use-dp)
+* [Tips](#tips)
 * [List of problems with solutions](#list-of-problems-with-solutions)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -59,6 +60,10 @@ The way to determine if you can use DP is just....to check if you can use DP.
 
 When you are trying to solve a problem you just try different directions. With experience you get a better intuition on which direction is more likely to work than others.
 
+<!-- TIPS -->
+## Tips
+
+Often it is better to start by finding the transitions. Then find the base cases.
 
 <!-- LIST OF PROBLEMS WITH SOLUTIONS -->
 ## List of problems with solutions
