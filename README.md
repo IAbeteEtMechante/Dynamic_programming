@@ -48,7 +48,11 @@ The goal of this repo is to solve a list of DP problems from Codeforces with Pyt
 ### Bottom up
 
 ### Push DP
-Kind of easier to implement, we just try to see how the current value contributes to future values, according to transitions.
+
+It is some kind of bottom up DP. But we kinda of reverse the transition equations, trying to see how the current value contributes to future values, according to transitions.
+Kind of easier to implement most of the time.
+By the time we arrive to a specific value, we already have added all the previous contributions, so that we know the current value, and we are ready to use it to update future values.
+Can see solutions to problem A and B for examples of push back DP.
 
 ### Bitmask DP
 
