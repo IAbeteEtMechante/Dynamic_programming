@@ -47,11 +47,18 @@ The goal of this repo is to solve a list of DP problems from Codeforces with Pyt
 ### Bottom up
 
 ### Push DP
-
+Kind of easier to implement, we just try to see how the current value contributes to future values, according to transitions.
 
 
 <!-- WHEN TO USE DP -->
 ## When to use DP?
+
+If there is no plausible state to store the answer, it probably isn't DP.
+
+The way to determine if you can use DP is just....to check if you can use DP.
+
+When you are trying to solve a problem you just try different directions. With experience you get a better intuition on which direction is more likely to work than others.
+
 
 <!-- LIST OF PROBLEMS WITH SOLUTIONS -->
 ## List of problems with solutions
