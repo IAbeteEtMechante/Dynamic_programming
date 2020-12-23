@@ -13,7 +13,7 @@
     <a href="https://codeforces.com/gym/302977"><strong>List of problems »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/IAbeteEtMechante/Dynamic_programming">Solutions</a>
+    <a href="https://github.com/IAbeteEtMechante/Dynamic_programming/README.md/#list-of-problems-with-solutions">Solutions</a>
     ·
     <a href="https://github.com/IAbeteEtMechante/Dynamic_programming/issues">Report Bug</a>
     ·
