@@ -56,17 +56,23 @@ Can see solutions to problem A and B for examples of push back DP.
 
 ### Bitmask DP
 
+Great playlist about bitmask DP here:
+https://www.youtube.com/watch?v=6sEFap7hIl4&list=PLb3g_Z8nEv1icFNrtZqByO1CrWVHLlO5g
+I didnt watch yet, but there is also an aglo live on it(more advanced i guess):
+https://www.youtube.com/watch?v=rlTkd4yOQpE
+
 Bitmask DP is a type of dynamic programming that uses bitmasks, in order to keep track of our current state in a problem.
 It is just a fancy way to say that we represent the current state (or part of the current state) as a binary number. 
 
 Imagine we have 3 booleans to describe the current state. We could use those 3 variables. But we can also say that each of those 3 represent a digit of a binary number between 0 and 7. And the code will be easier and faster to write.
 
-To sum up: Bitmask DP can be usefull if we have a bunch of booleans to describe the current state. A binary number can then group them together to make the state and the redaction of the code more manageable.
+Another very common situation is to describe states that are actually sbusets of something. It makes a lot of sense to represent a given subset as a binaray number, so that we can perform bitwise operation on this binary number later.
+
+To sum up: Bitmask DP can be usefull if we have a bunch of booleans to describe the current state. A binary number can then group them together to make the state and the redaction of the code will be more manageable.
 
 Example: see solutions of problem C, with and without bitmask, to see how the bitmask simplifies the code
 
-good video on bitmask DP:
-https://www.youtube.com/watch?v=rlTkd4yOQpE
+
 
 <!-- WHEN TO USE DP -->
 ## When to use DP?
