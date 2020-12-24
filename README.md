@@ -58,6 +58,7 @@ Can see solutions to problem A and B for examples of push back DP.
 
 Great playlist about bitmask DP here:
 https://www.youtube.com/watch?v=6sEFap7hIl4&list=PLb3g_Z8nEv1icFNrtZqByO1CrWVHLlO5g
+
 I didnt watch yet, but there is also an aglo live on it(more advanced i guess):
 https://www.youtube.com/watch?v=rlTkd4yOQpE
 
