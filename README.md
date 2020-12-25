@@ -52,7 +52,7 @@ The goal of this repo is to solve a list of DP problems from Codeforces with Pyt
 It is some kind of bottom up DP. But we kinda of reverse the transition equations, trying to see how the current value contributes to future values, according to transitions.
 This kind of DP is kind of easier to implement most of the time.
 By the time we arrive to a specific value, we already have added all the previous contributions, so that we know the current value, and we are ready to use it to update future values.
-Can see solutions to problem A and B for examples of push back DP.
+Can see solutions to DP_mashup_list_Colin_Galen/Problem_A and DP_mashup_list_Colin_Galen/Problem_B for examples of push back DP.
 
 ### Bitmask DP
 
@@ -71,7 +71,7 @@ Another very common situation is to describe states that are actually sbusets of
 
 To sum up: Bitmask DP can be usefull if we have a bunch of booleans to describe the current state. A binary number can then group them together to make the state and the redaction of the code will be more manageable.
 
-Example: see solutions of problem C, with and without bitmask, to see how the bitmask simplifies the code
+Example: see solutions of DP_mashup_list_Colin_Galen/Problem_C, with and without bitmask, to see how the bitmask simplifies the code
 
 
 
@@ -109,10 +109,10 @@ Sometimes, but generally not
 <!-- LIST OF PROBLEMS WITH SOLUTIONS -->
 ## List of problems with solutions
 
-Here is the list of DP problems on Codeforces:
+Here is the list of mashup DP problems from Colin Galen:
 https://codeforces.com/gym/302977
 
-Solutions to problems are in this repo. All solutions in this repo have been "Approved" on Codeforces.
+Solutions to all problems are in this repo. All solutions in this repo have been "Approved" on Codeforces.
 
 <!-- CONTACT -->
 ## Contact
