@@ -1,0 +1,22 @@
+Problem Statement
+
+you have N workers and N jobs
+You want to assign exactly one job to each worker
+Each worker has a cost to do the job.
+The cost is given to you as a matrix
+
+what is the min cost you will have to pay?
+
+Constraints
+N <= 20
+
+
+Sample Input
+4
+9 2 7 8
+6 4 3 7
+5 8 1 8
+7 6 9 4
+
+Sample Output
+13

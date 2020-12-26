@@ -1,0 +1,2 @@
+suppose you have a m X n grid.
+You start on top left corner, you want to go to bottom right corner, how many ways to do that?
