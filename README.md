@@ -78,6 +78,12 @@ Example: see solutions of DP_mashup_list_Colin_Galen/Problem_C, with and without
 <!-- WHEN TO USE DP -->
 ## When to use DP?
 
+DP problems share those features:
+* The problem has many choices, each choice has a score and you want to find the optimal choice
+* Space of choices is too large to try all choices by brute force
+* The optimal solution is made of optimal solution for subproblems
+* ...and those subproblems overlap
+
 If there is no plausible state to store the answer, it probably isn't DP.
 
 The way to determine if you can use DP is just....to check if you can use DP.
